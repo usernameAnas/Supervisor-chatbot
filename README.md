@@ -11,3 +11,8 @@ ACS is a virtual academic supervisor that aims to facilitate the course selectio
 
 
 ![image](https://github.com/user-attachments/assets/b1139b47-67fc-40d0-8d97-1425d260b935)
+
+
+The Report
+
+![image](https://github.com/user-attachments/assets/349f42ad-9dec-484b-8ebb-d975530b82bd)
