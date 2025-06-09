@@ -1,7 +1,8 @@
-![image](https://github.com/user-attachments/assets/16c9d64c-a20c-49c3-bed3-b2ead8ccf331)
-
-
 ACS is a virtual academic supervisor that aims to facilitate the course selection process for AOU- IT students by leveraging the benefit of artificial intelligence.
+
+
+
+![image](https://github.com/user-attachments/assets/16c9d64c-a20c-49c3-bed3-b2ead8ccf331)
 
 
 
